@@ -1,0 +1,22 @@
+{
+  "n_pos": 7,
+  "ns_s": 2,
+  "ns_d": 2,
+  "ligands": [
+    "Lig1",
+    "Lig2"
+  ],
+  "receptors": [
+    "Rec1",
+    "Rec2"
+  ],
+  "cot_eps_p": 0.1,
+  "cot_rho": 10.0,
+  "cot_nitermax": 10000,
+  "cot_weights": [
+    0.25,
+    0.25,
+    0.25,
+    0.25
+  ]
+}

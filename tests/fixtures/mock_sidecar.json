@@ -1,0 +1,27 @@
+{
+  "ligands": [
+    "Lig1",
+    "Lig2"
+  ],
+  "receptors": [
+    "Rec1",
+    "Rec2"
+  ],
+  "pairs": [
+    {
+      "ligand": "Lig1",
+      "receptor": "Rec1",
+      "pathway": "pathway1"
+    },
+    {
+      "ligand": "Lig1",
+      "receptor": "Rec2",
+      "pathway": "pathway1"
+    },
+    {
+      "ligand": "Lig2",
+      "receptor": "Rec2",
+      "pathway": "pathway2"
+    }
+  ]
+}
